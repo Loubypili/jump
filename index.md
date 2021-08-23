@@ -5,8 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body bgcolor="#84dfce"> 
-    <p>Este sería un lugar para subir textos/escritos y esas cosas. Descripciones, palabras, relatos de experiencias fimlando etc. etc.</p>
+<body bgcolor="#84dfce">
     <img src="Salto-Lou-_1_.gif" alt="Salto lou">
   <p> Hola, soy lou <p>
 </body>
